@@ -1,12 +1,11 @@
-#html{
-    margin-top: 120px;
+#DnD, #Masks, #Blades, #Wod, #MG{
+    margin-top: 100px;
 }
-pre{
-    background-image: url("scale_1200.png");
-    background-repeat: no-repeat;
-    background-position: top center;
-    background-attachment: fixed;
-    background-color: rgba(0,50,50,0.5);
-    word-wrap: break-word;
 
+.nav-item {
+    font-size: 16px;
+    margin-left: 16px;
+    margin-right: 16px;
 }
+
+
