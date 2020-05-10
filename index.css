@@ -2,10 +2,15 @@
     margin-top: 100px;
 }
 
-.nav-item {
-    font-size: 16px;
-    margin-left: 16px;
-    margin-right: 16px;
+html {
+    scroll-behavior: smooth;
 }
+
+.hide{
+    display: none;
+}
+
+
+
 
 
