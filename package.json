@@ -1,0 +1,13 @@
+{
+  "name": "Syte",
+  "version": "1.0.0",
+  "dependencies": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jump.js": "^1.0.2"
+  },
+  "devDependencies": {}
+}
