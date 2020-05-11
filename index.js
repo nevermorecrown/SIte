@@ -21,7 +21,8 @@ btn.addEventListener("click", function () {
 
     ourRequest.send();
     infoContainer++;
-    if (infoContainer >= 1) {
+    if (infoContainer >= 4) {
         btn.classList.add("hide-me");
     }
 });
+

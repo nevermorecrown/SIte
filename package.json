@@ -1,13 +1,19 @@
 {
   "name": "Syte",
   "version": "1.0.0",
-  "dependencies": "",
   "main": "index.js",
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jump.js": "^1.0.2"
+    "jump.js": "^1.0.2",
+    "parcel-bundler": "^1.12.4"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "description": ""
 }
